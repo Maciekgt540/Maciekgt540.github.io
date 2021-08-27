@@ -157,7 +157,7 @@ nav .menu-item:nth-of-type(4):hover ~ #sub-menu-container #sub-menu-holder {
     position: absolute;
     pointer-events: none;
     bottom: -5em;
-    left: calc(50% - 10px);
+    left: calc(10% - 10px);
     border-color: transparent transparent white transparent;
     border-width: 10px;
     border-style: solid;
